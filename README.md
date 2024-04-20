@@ -1,3 +1,5 @@
+Not perfect but complete. No more time will be wasted perfecting skittle sotation.
+
 Source code for PlatformIO Skittle Sorter 3D printed useless machine - https://makerworld.com/en/models/433867
 
 You'll need additional libraries from these awesome folks:
