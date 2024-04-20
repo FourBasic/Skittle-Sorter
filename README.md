@@ -1,4 +1,4 @@
-Source code for Skittle Sorter 3D printed useless machine - https://makerworld.com/en/models/433867
+Source code for PlatformIO Skittle Sorter 3D printed useless machine - https://makerworld.com/en/models/433867
 
 You'll need additional libraries from these awesome folks:
 
