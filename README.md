@@ -35,3 +35,5 @@ Should make use of the photo interrupter to check position after the cycle has b
 
 
 ![image](https://github.com/FourBasic/Skittle-Sorter/assets/79863927/33dcb580-3cbd-4771-98bd-12c1f5939a3c)
+![image](https://github.com/FourBasic/Skittle-Sorter/assets/79863927/73c73a54-55ff-4bda-9efa-992f760a2384)
+
