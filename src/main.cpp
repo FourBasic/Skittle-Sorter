@@ -69,7 +69,7 @@ AccelStepper drop(forwardStep2, backwardStep2);
 Encoder encCollector(totalSteps, totalQaud, true);
 Encoder encDropper(totalSteps, totalQaud, true);
 ColorSensor colorScanner(13,A1,9,10,2,12);
-Debounce homeSwitch(1);
+Debounce homeSwitch;
 /* #endregion */
 
 /* #region GLOBAL */
