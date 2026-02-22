@@ -4,7 +4,7 @@
 #include <AFMotor.h>
 #include "GeneralFunctions.h"
 #include "Encoder.h"
-#include "ColorSensor.h"
+#include "ColorSensor/TSC3200.h"
 #include "Debounce.h"
 #include "TimerOnDelay.h"
 /* #endregion */
